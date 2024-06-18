@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riXoon
 - 👀 I’m interested in anything that are interesting
-- 🌱 I’m currently learning JavaScript & ReactJS
+- 🌱 I’m currently learning JavaScript & Next.js
 - 📫 email: rixon.code@gmail.com
 - 😄 Pronouns: he/him
 

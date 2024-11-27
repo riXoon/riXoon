@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **myself**
+ 🔭 I’m currently working on **Carrot Friezz Customer Relationship Management System**
  
  🌱 I’m currently learning **React, Tailwind, Visual Basic**
 

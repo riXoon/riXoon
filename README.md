@@ -12,9 +12,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Carrot Friezz Customer Relationship Management System**
+ 🔭 I’m currently working on **Bringing back the passion that I lost**
  
- 🌱 I’m currently learning **React, Tailwind, Visual Basic**
+ 🌱 I’m currently learning **Python**
 
 💬 Ask me about **HTML, CSS, Javascript... or anything [here](https://github.com/riXoon/riXoon/issues)**
 

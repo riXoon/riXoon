@@ -46,8 +46,8 @@
 <h2 align="center">🛡️ TryHackMe Badge</h2>
 
 <p align="center">
-  <a href="https://tryhackme.com/p/4777558" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/4777558.png" alt="TryHackMe Badge" />
+  <a href="[https://tryhackme.com/p/4777558](https://tryhackme.com/p/rixon.code)" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/rixon.code.png" alt="Your Image Badge" />
   </a>
 </p>
 

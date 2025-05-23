@@ -46,9 +46,9 @@
 <h2 align="center">🛡️ TryHackMe Badge</h2>
 
 <p align="center">
-  <a href="https://tryhackme.com/p/riXon" target="_blank">
+  <a href="https://tryhackme.com/p/riXploit" target="_blank">
     <!-- THM_BADGE_START -->
-    <img src="https://tryhackme-badges.s3.amazonaws.com/riXon.png" alt="TryHackMe Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/riXploit.png" alt="TryHackMe Badge" />
     <!-- THM_BADGE_END -->
   </a>
 </p>

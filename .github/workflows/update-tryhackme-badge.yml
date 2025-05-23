@@ -15,7 +15,7 @@ jobs:
 
       - name: Update README badge
         run: |
-          BADGE_MD="![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/riXon.png)"
+          BADGE_MD="![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/riXploit.png)"
 
           # Replace between markers
           sed -i '/<!-- THM_BADGE_START -->/,/<!-- THM_BADGE_END -->/c\

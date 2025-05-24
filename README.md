@@ -15,7 +15,7 @@
 🔭 I’m currently working on **bringing back the passion that I've lost**  
 🌱 I’m currently learning **to deal with myself**  
 💬 Ask me about **HTML, CSS, JavaScript... or anything [here](https://github.com/riXoon/riXoon/issues)**  
-⚡ Fun fact: **A day on Venus is longer than a year on Venus!**
+⚡ Fun fact: **I like potatoes**
 
 </div>
 

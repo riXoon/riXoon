@@ -17,9 +17,21 @@ jobs:
         run: |
           BADGE_MD="![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/riXploit.png)"
 
-          # Replace between markers
-          sed -i '/<!-- THM_BADGE_START -->/,/<!-- THM_BADGE_END -->/c\
-<!-- THM_BADGE_START -->\n'"$BADGE_MD"'\n<!-- THM_BADGE_END -->' README.md
+          # Use a temporary file to handle newline escaping properly
+          awk -v badge="$BADGE_MD" '
+            /<!-- THM_BADGE_START -->/ {
+              print;
+              print badge;
+              skip=1;
+              next;
+            }
+            /<!-- THM_BADGE_END -->/ {
+              skip=0;
+              print;
+              next;
+            }
+            skip==0 { print }
+          ' README.md > temp.md && mv temp.md README.md
 
       - name: Commit and push changes
         run: |

@@ -47,9 +47,7 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/riXploit" target="_blank">
-    <!-- THM_BADGE_START -->
     <img src="https://tryhackme-badges.s3.amazonaws.com/riXploit.png" alt="Your Image Badge" />
-    <!-- THM_BADGE_END -->
   </a>
 </p>
 

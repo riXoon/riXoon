@@ -15,7 +15,7 @@
 🔭 I’m currently working on **Library Management System**  
 🌱 I’m currently learning **Backend Development and Cybersecurity**  
 💬 Ask me about **HTML, CSS, JavaScript... or anything [here](https://github.com/riXoon/riXoon/issues)**  
-⚡ Fun fact: **I like potatoes**
+⚡ Fun fact: **I'm not a dev**
 
 </div>
 

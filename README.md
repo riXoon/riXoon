@@ -9,7 +9,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=riXoon.riXoon" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+I'm+Erickson;+Backend+Developer;+Cybersecurity+Enthusiast;+CTF+Player+@+Lil:Pwny;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+I'm+Erickson;+Student+Fullstack+Developer;+Cybersecurity+Enthusiast;+CTF+Player+@+Lil:Pwny;" />
 </h1>
 
 <p align="center">

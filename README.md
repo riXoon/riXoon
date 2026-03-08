@@ -44,7 +44,7 @@
 
 ## Certifications & Badges
 
-### API Security Badges
+### APISEC University Badges
 <div align="center">
   <a href="https://www.credly.com/badges/9f6c35d0-d371-427c-b297-2f92df7e3504/public_url" target="_blank">
     <img src="API-PENTEST.png" width="200" alt="API Penetration Testing" />
@@ -61,7 +61,25 @@
   <a href="https://www.credly.com/badges/d389568e-b7e8-4c1b-a693-4c90117eb4af/public_url" target="_blank">
     <img src="API-Security.png" width="200" alt="API Security'25 Fundamentals" />
   </a>
+  <a href="https://www.credly.com/badges/22ac134c-4606-47a4-85a4-8f9420691152/public_url" target="_blank">
+    <img src="OWASP-API.png" width="200" alt="OWASP API Top 10" />
+  </a>
 </div>
+
+### Cisco Networking Academy Badges
+<div align="center">
+  <a href="https://www.credly.com/badges/d3c1b48d-5505-4957-b3af-0288ec45cf0a/public_url" target="_blank">
+    <img src="INTRO-TO-CYBERSEC.png" width="200" alt=Cisco Intro to Cybersecurity" />
+  </a>
+</div>
+
+### ISC2 Badges
+<div align="center">
+  <a href="https://www.credly.com/badges/04d587cb-38a8-4a26-85c8-75a0776bde19/public_url" target="_blank">
+    <img src="ISC2-CANDIDATE.png" width="200" alt=ISC2 Candidate" />
+  </a>
+</div>
+
 
 ### Cybersecurity Certifications
 
@@ -84,14 +102,17 @@
 
 ### GitHub Analytics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=riXoon&count_private=true&theme=react&border_radius=10" alt="Streak Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=riXoon&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=riXoon&theme=react&border_radius=10" alt="Streak Stats" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=riXoon&show_icons=true&theme=react&rank_icon=github&border_radius=10&count_private=true" alt="GitHub Stats" />
+</div>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riXoon&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
-</p>
+<br/>
+
+<div align="center">
+  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=riXoon&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+</div>
 
 ---
 

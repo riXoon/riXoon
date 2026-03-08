@@ -42,10 +42,23 @@
 
 ---
 
-### Certifications
+## Certifications & Badges
+
+### Cybersecurity Certifications
 
 <div align="center">
   <img src="MCRTA-CERT.png" width="400" alt="MCRTA Certification" />
+  <img src="C3SA.png" width="400" alt="C3SA Certification" />
+  <img src="CJWPT.png" width="400" alt="CJWPT Certification" />
+  <img src="THM_PRE_SEC.png" width="400" alt="MCRTA Certification" />
+</div>
+
+### Capture The Flag Certifications
+
+<div align="center">
+  <img src="AOC2025.jpg" width="400" alt="AOC2025 Certification" />
+  <img src="LAFB2026.png" width="400" alt="LAFB2026 Certification" />
+  <img src="SWIMMER_OSINT_CERT.png" width="400" alt="SWIMMER OSINT Certification" />
 </div>
 
 ---

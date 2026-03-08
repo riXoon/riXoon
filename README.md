@@ -44,6 +44,25 @@
 
 ## Certifications & Badges
 
+### API Security Badges
+<div align="center">
+  <a href="https://www.credly.com/badges/9f6c35d0-d371-427c-b297-2f92df7e3504/public_url" target="_blank">
+    <img src="API-PENTEST.png" width="200" alt="API Penetration Testing" />
+  </a>
+  <a href="https://www.credly.com/badges/ae650af3-e593-4703-bcad-781fad3af07d/public_url" target="_blank">
+    <img src="API-AUTH.png" width="200" alt="API Authentication" />
+  </a>
+  <a href="https://www.credly.com/badges/ae650af3-e593-4703-bcad-781fad3af07d/public_url" target="_blank">
+    <img src="API-GATEWAY.png" width="200" alt="API Gateway Security" />
+  </a>
+  <a href="https://www.credly.com/badges/ab2fc6ea-de0e-485a-a2c2-863b61edcedc/public_url target="_blank">
+    <img src="API-Documentation.png" width="200" alt="API Documentation Best Practices" />
+  </a>
+  <a href="https://www.credly.com/badges/d389568e-b7e8-4c1b-a693-4c90117eb4af/public_url" target="_blank">
+    <img src="API-Security.png" width="200" alt="API Security'25 Fundamentals" />
+  </a>
+</div>
+
 ### Cybersecurity Certifications
 
 <div align="center">

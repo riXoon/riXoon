@@ -10,10 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+I'm+Erickson;+Student+Fullstack+Developer;+Cybersecurity+Enthusiast;+CTF+Player+@+Lil:Pwny;" />
 </h1>
 
-<p align="center">
-  <strong>BSIT Student at Quezon City University | Project Manager | Fullstack Student Dev</strong>
-</p>
-
 ---
 
 ### About Me

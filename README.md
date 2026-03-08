@@ -42,12 +42,10 @@
 
 ---
 
-### Professional Certifications & Badges
+### Certifications
 
 <div align="center">
-  <a href="https://tryhackme.com/p/Senec4" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Senec4.png?nocache=113235" alt="TryHackMe Badge" />
-  </a>
+  <img src="MCRTA-CERT.png" width="400" alt="MCRTA Certification" />
 </div>
 
 ---

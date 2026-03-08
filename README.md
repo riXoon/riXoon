@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <a href="https://github.com/riXoon">
     <img src="https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif" width="100%" alt="Banner" />
@@ -96,6 +94,7 @@
   <img src="AOC2025.jpg" width="400" alt="AOC2025 Certification" />
   <img src="LAFB2026.png" width="400" alt="LAFB2026 Certification" />
   <img src="SWIMMER_OSINT_CERT.png" width="400" alt="SWIMMER OSINT Certification" />
+  <img src="0xFun.png" width="400" alt="0xFun CTF 2026 Certification" />
 </div>
 
 ---
